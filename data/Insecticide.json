@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/WvpQKcQ/Ripcord-300x300-jpg.webp",
+        "title": "Ripcord ",
+        "prize": 182
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/1Z5QPVr/Rugby-10-G-300x300-jpg.webp",
+        "title": "Rugby",
+        "prize": 820
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/0DF81Wq/Neem-Cake-Powder-300x300-jpg.webp",
+        "title": "Neem ",
+        "prize": 150
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/5GmLyf3/Nitro-300x300-jpg.webp",
+        "title": "Nitro Insecticide ",
+        "prize": 130
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/fG3YwNN/Fighter-300x300-jpg.webp",
+        "title": "Fighter",
+        "prize": 135
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/tC89LNX/Neem-Oil-for-Plants-300x300-jpg.webp",
+        "title": "Neem Oil ",
+        "prize": 240
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/kMS1dPD/Tafgor-300x300-jpg.webp",
+        "title": "Tafgor ",
+        "prize": 150
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/ykDM8z5/Imitaf-Imidacloprid-300x300-jpg.webp",
+        "title": "Imitaf",
+        "prize": 195
+    }
+]

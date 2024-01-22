@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/5TdFMF3/Gibberellic-Acid-Tablet-300x300-jpg.webp",
+        "title": "Power",
+        "price": 150,
+        "description": "Gibberellic acid (GA3) is a hormone available in plants and various fungi. In the normal stage, plants produce large amounts of Gibberellic acid. Companies are producing this hormone industrially using microorganisms collected from plants and fungi."
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/T0NsChZ/Humistar-WG-Humic-Acid-for-Plants-300x300-jpg.webp",
+        "title": "Humistar WG",
+        "price": 205,
+        "description":"Humistar provides humic acid for plants. Each pack contains Humic acid 75%, Falvik 12%, and Potassium 18%. Humistar boosts the nutrients in the soil to make the plant ready for adoption, activates available beneficial microorganisms, and increases the effectiveness of chemical fertilizers."
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/0Mb8mxb/Bone-Meal-300x300-jpg.webp",
+        "title": "Bone Meal",
+        "price": 80,
+        "description":"Bone meal is a perfect organic fertilizer for ensuring optimal growth and health of your plants with flowering and fruiting! Bone meal provides a natural source of calcium and phosphorus that helps in the formation of healthy cells and contributes to the overall maintenance of various plant components Bone meal fertilizer boosts fruiting and flowering."
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/M8RFGq8/Bioderma-Powder-300x300-jpg.webp",
+        "title": "Bioderma",
+        "price": 120,
+        "description":"Bioderma powder contains Trichoderma, which is a potent bio-control agent effective against a wide range of diseases caused by fungi, bacteria, and nematodes. It contains beneficial microorganisms such as Rhizobium, Azospirillum, and Bacillus, which are suitable for mixing with other organic fertilizers."
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/pQQ6rLH/GF-029-300x300-jpg.webp",
+        "title": "SOP Fertilizer",
+        "price": 130,
+        "description":"SOP fertilizer (Sulphate of Potash) provides both potassium and sulfur for the plants. The Sulphate of Potash fertilizer does not contain chloride and has a much lower salt index than MOP (Muriate of Potassium)."
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/zS9W628/Slow-release-Tablet-Fertilizer-300x300-jpg.webp",
+        "title": "Slow-release ",
+        "price": 270,
+        "description":"This Silvamix slow-release tablet fertilizer is suitable for any plants in pots. It slowly dissolves and provides nutrients to the plants over 4 months."
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/cxmZ7RR/American-NPKS-300x300.jpg",
+        "title": "NPKS Fertilizer",
+        "price": 150,
+        "description":"American NPKS (8-20-14-5) is water-soluble. Each pack contains 500g NPKS fertilizer."
+    },
+    {
+        "id": 8,
+        "img": "https://garden.com.bd/wp-content/uploads/2023/02/A-03-300x300.jpg",
+        "title": "Vermicompost",
+        "price": 195,
+        "description":"NPKS fertilizer contains 3 macro-nutrients and 1 micronutrient for plants. These macro-nutrients are nitrogen (N), Phosphorus (P), Potassium (K), and 1 micronutrient is Sulfur (S)."
+    },
+    {
+        "id": 9,
+        "img": "https://garden.com.bd/wp-content/uploads/2023/02/A-03-300x300.jpg",
+        "title": "Water Soluble American",
+        "price": 125,
+        "description":"Vermicompost is the compost that is left behind after earthworms eat and digest many types of organic matter. Among all organic compost, vermicompost is the top fertilizer for the soil."
+    }
+]

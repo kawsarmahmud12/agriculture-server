@@ -1,0 +1,722 @@
+[
+    {
+      
+      "id": 1,
+      "chef_name": "Mustard Oil Cake",
+      "chef_picture": "https://i.ibb.co/qjxQ42Q/Mustard-Oil-Cake-300x300-jpg.webp",
+      "price": 210 ,
+      "num_of_recipes": 30,
+      "likes": "6k",
+      "description": "Mustard Oil , derived from the extraction process of mustard seeds. This natural fertilizer is packed with essential nutrients, making it an excellent organic fertilizer for your garden or agricultural fields. Mustard Oil Cake is a rich source of nitrogen, phosphorus, and potassium, crucial elements that promote robust plant growth, stronger roots, and vibrant blooms.",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/A-03-300x300.jpg",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chef_name": "Osmocote Fertilizer",
+      "chef_picture": "https://i.ibb.co/kXwCGND/Osmocote-Fertilizer-300x300-jpg.webp",
+      "num_of_recipes": 20,
+      "price": 260 ,
+      "likes": "2k",
+      "description": "Gibberellic acid (GA3) is a hormone available in plants and various fungi. In the normal stage, plants produce large amounts of Gibberellic acid. Companies are producing this hormone industrially using microorganisms collected from plants and fungi.",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/fHk1rvz/Biovita-X-Seaweed-Extract-Fertilizer-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chef_name": "ACI Flora PGR",
+      "chef_picture": "https://i.ibb.co/fGpgtb3/ACI-Flora-300x300-jpg.webp",
+      "years_of_experience": 25,
+      "price": 150 ,
+      "num_of_recipes": 31,
+      "likes": "1.5k",
+      "description": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his campaigns to improve school lunches and his focus on using fresh and healthy ingredients in his cooking.",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/F6nsXwf/NPK-20-20-20-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chef_name": "Neem Cake Powder",
+      "chef_picture": "https://i.ibb.co/0DF81Wq/Neem-Cake-Powder-300x300-jpg.webp",
+      "years_of_experience": 35,
+      "num_of_recipes": 18,
+      "price": 80 ,
+      "likes": "1.2k",
+      "description": "Humistar provides humic acid for plants. Each pack contains Humic acid 75%, Falvik 12%, and Potassium 18%. Humistar boosts the nutrients in the soil to make the plant ready for adoption, activates available beneficial microorganisms, and increases the effectiveness of chemical fertilizers.",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/kXwCGND/Osmocote-Fertilizer-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chef_name": "BiovitaX",
+      "chef_picture": "https://i.ibb.co/qns01Kj/Biovita-X-Seaweed-Extract-Fertilizer-300x300-jpg.webp",
+      "years_of_experience": 30,
+      "num_of_recipes": 15,
+      "price": 180 ,
+      "likes": "18k",
+      "description": "Nigella Lawson is a British food writer, chef, and television personality. She is known for her indulgent recipes and her relaxed approach to cooking.",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/cxcyHZQ/ACI-Flora-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chef_name": "Librel® Zinc",
+      "chef_picture": "https://i.ibb.co/D78sJvY/GF-029-300x300-jpg.webp",
+      "years_of_experience": 30,
+      "num_of_recipes": 23,
+      "price": 230 ,
+      "likes": "11k",
+      "description": "Bone meal is a perfect organic fertilizer for ensuring optimal growth and health of your plants with flowering and fruiting! Bone meal provides a natural source of calcium and phosphorus that helps in the formation of healthy cells and contributes to the overall maintenance of various plant components Bone meal fertilizer boosts fruiting and flowering.",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/cxcyHZQ/ACI-Flora-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "chef_name": "NPK Fertilizer",
+      "chef_picture": "https://i.ibb.co/CVdRKkT/NPK-20-20-20-300x300-jpg.webp",
+      "years_of_experience": 27,
+      "num_of_recipes": 25,
+      "price": 320 ,
+      "likes": "13k",
+      "description": "Nigella Lawson is a British food writer, chef, and television personality. She is known for her indulgent recipes and her relaxed approach to cooking.",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/cxcyHZQ/ACI-Flora-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "chef_name": "Litosen",
+      "chef_picture": "https://i.ibb.co/vqhGtnd/Litocen-300x300-jpg.webp",
+      "years_of_experience": 21,
+      "num_of_recipes": 27,
+      "price": 145 ,
+      "likes": "17k",
+      "description": "Bioderma powder contains Trichoderma, which is a potent bio-control agent effective against a wide range of diseases caused by fungi, bacteria, and nematodes. It contains beneficial microorganisms such as Rhizobium, Azospirillum, and Bacillus, which are suitable for mixing with other organic fertilizers.",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/cxcyHZQ/ACI-Flora-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "chef_name": "Power",
+      "chef_picture": "https://i.ibb.co/5TdFMF3/Gibberellic-Acid-Tablet-300x300-jpg.webp",
+      "years_of_experience": 34,
+      "num_of_recipes": 12,
+      "price": 148 ,
+      "likes": "17k",
+      "description": "SOP fertilizer (Sulphate of Potash) provides both potassium and sulfur for the plants. The Sulphate of Potash fertilizer does not contain chloride and has a much lower salt index than MOP (Muriate of Potassium).",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/cxcyHZQ/ACI-Flora-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "chef_name": "Humistar WG",
+      "chef_picture": "https://i.ibb.co/T0NsChZ/Humistar-WG-Humic-Acid-for-Plants-300x300-jpg.webp",
+      "years_of_experience": 21,
+      "num_of_recipes": 21,
+      "price": 130 ,
+      "likes": "17k",
+      "description": "American NPKS (8-20-14-5) is water-soluble. Each pack contains 500g NPKS fertilizer.",
+      "recipes": [
+        {
+          "recipe_name": "Humistar WG",
+          "img": "https://i.ibb.co/cxcyHZQ/ACI-Flora-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "chef_name": "Bone Meal",
+      "chef_picture": "https://i.ibb.co/0Mb8mxb/Bone-Meal-300x300-jpg.webp",
+      "years_of_experience": 21,
+      "num_of_recipes": 13,
+      "price": 185 ,
+      "likes": "17k",
+      "description": "NPKS fertilizer contains 3 macro-nutrients and 1 micronutrient for plants. These macro-nutrients are nitrogen (N), Phosphorus (P), Potassium (K), and 1 micronutrient is Sulfur (S).",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/cxcyHZQ/ACI-Flora-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "chef_name": "SOP Fertilizer",
+      "chef_picture": "https://i.ibb.co/pQQ6rLH/GF-029-300x300-jpg.webp",
+      "years_of_experience": 21,
+      "num_of_recipes": 14,
+      "price": 235 ,
+      "likes": "17k",
+      "description": "Vermicompost is the compost that is left behind after earthworms eat and digest many types of organic matter. Among all organic compost, vermicompost is the top fertilizer for the soil.",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/cxcyHZQ/ACI-Flora-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "chef_name": "Rugby",
+      "chef_picture": "https://i.ibb.co/1Z5QPVr/Rugby-10-G-300x300-jpg.webp",
+      "years_of_experience": 21,
+      "num_of_recipes": 15,
+      "price": 85 ,
+      "likes": "17k",
+      "description": "Ellivs Tork is a British chef, restaurateur, and television personality. He is known for his fiery temper, his high standards for cooking, and his Michelin-starred restaurants.",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/cxcyHZQ/ACI-Flora-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "chef_name": "Slow-release",
+      "chef_picture": "https://i.ibb.co/zS9W628/Slow-release-Tablet-Fertilizer-300x300-jpg.webp",
+      "years_of_experience": 21,
+      "num_of_recipes": 16,
+      "price": 150 ,
+      "likes": "17k",
+      "description": "Bioderma powder contains Trichoderma, which is a potent bio-control agent effective against a wide range of diseases caused by fungi, bacteria, and nematodes. It contains beneficial microorganisms such as Rhizobium, Azospirillum, and Bacillus, which are suitable for mixing with other organic fertilizers.",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/cxcyHZQ/ACI-Flora-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "chef_name": "Water Soluble",
+      "chef_picture": "https://garden.com.bd/wp-content/uploads/2023/02/A-03-300x300.jpg",
+      "years_of_experience": 21,
+      "num_of_recipes": 32,
+      "price": 145,
+      "likes": "17k",
+      "description": "SOP fertilizer (Sulphate of Potash) provides both potassium and sulfur for the plants. The Sulphate of Potash fertilizer does not contain chloride and has a much lower salt index than MOP (Muriate of Potassium).",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/cxcyHZQ/ACI-Flora-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "chef_name": "Nitro Insecticide",
+      "chef_picture": "https://i.ibb.co/8zHkfqb/IMG-20231227-WA0000-300x300-jpg.webp",
+      "years_of_experience": 21,
+      "num_of_recipes": 23,
+      "price": 133 ,
+      "likes": "17k",
+      "description": "SOP fertilizer (Sulphate of Potash) provides both potassium and sulfur for the plants. The Sulphate of Potash fertilizer does not contain chloride and has a much lower salt index than MOP (Muriate of Potassium).",
+      "recipes": [
+        {
+          "recipe_name": "Vermicompost ",
+          "img": "https://i.ibb.co/cxcyHZQ/ACI-Flora-300x300-jpg.webp",
+          "ingredients": [
+            "1. usually red wigglers",
+            "2. white worms",
+            "3. worm poop"
+          ],
+          "cooking_method": "1.6 per cent of Nitrogen.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "NPKS Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/GF-026-2-300x300.jpg",
+          "ingredients": [
+            "1 worm humus",
+            "2 worm castings",
+            "3 vermiwash"
+          ],
+          "cooking_method": "0.7 per cent of Phosphorus.",
+          "rating": 4.2
+        },
+        {
+          "recipe_name": "Slow-release Tablet Fertilizer",
+          "img": "https://garden.com.bd/wp-content/uploads/2023/02/Slow-release-Tablet-Fertilizer-300x300.jpg.webp",
+          "ingredients": [
+            "1 bone meal fertilizer",
+            "2 natural humic acids",
+            "3 feather meal"
+          ],
+          "cooking_method": "0.5 per cent of Calcium.",
+          "rating": 4.0
+        }
+      ]
+    }
+  ]
+  

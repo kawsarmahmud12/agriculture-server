@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/YjFP4bn/GF-029-300x300-jpg.webp",
+        "title": "SOP Fertilizer",
+        "prize": 250
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/4PPdtm2/A-03-300x300.jpg",
+        "title": "Vermicompost",
+        "prize": 170
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/JtSYDF8/American-NPKS-300x300.jpg",
+        "title": "Water Soluble American NPKS",
+        "prize": 150
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/hCbbb8j/Bioderma-Powder-300x300-jpg.webp",
+        "title": "Bioderma Powder",
+        "prize": 130
+    }
+]

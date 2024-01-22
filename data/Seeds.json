@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/6YChgrm/IMG-20231227-WA0004-300x300-jpg.webp",
+        "title": "GRAND RAPIDS LETTUCE",
+        "name": "Vegetable Seeds",
+        "price": 280
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/8zHkfqb/IMG-20231227-WA0000-300x300-jpg.webp",
+        "title": "THAI PAPAYA",
+        "name": "Fruit Seeds",
+        "price": 120
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/kBzNbxb/received-1022105795737985-300x300-jpeg.webp",
+        "title": "ATLANTIC GIANT PUMPKIN",
+        "name": "Vegetable Seeds",
+        "price": 150
+    },
+    {
+        "id": 4,
+        "img": "https://seedsmate.org/wp-content/uploads/2023/12/Red-Vendi-300x300.jpg",
+        "title": "Hybrid Red Vendi Seeds",
+        "name": "Seeds",
+        "price": 180
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/KW6JTXW/received-195256416976517-300x300-jpeg.webp",
+        "title": "RED CHERRY TOMATO",
+        "name": "Seeds",
+        "price": 135
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/MMmkHbc/received-161920266977228-300x300-jpeg.webp",
+        "title": "F1 HYBRID BRINJAL",
+        "name": "Vegetable Seeds",
+        "price": 245
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/GnLhNWF/75561412-1602143809928600-5520689509886328832-n-300x300-jpg.webp",
+        "title": "BATI SHAK Seeds",
+        "name": "Herb Seeds",  
+        "price": 150
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/6RWSxVJ/received-3536619203259097-300x300-jpeg.webp",
+        "title": "KAVRI BHENDI",
+        "name": "Seeds", 
+        "price": 195
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/YQvLkCs/received-631172132319933-300x300-jpeg.webp",
+        "title": "F1 HYBRID JACK BEAN",
+        "name": "Seeds", 
+        "price": 210
+    },
+    {
+        "id": 10,
+        "img": "https://i.ibb.co/q0Z8CDR/received-1123445368621018-300x300-jpeg.webp",
+        "title": "Yellow Carrot",
+        "name": "Fruit Seeds", 
+        "price": 180
+    },
+    {
+        "id": 11,
+        "img": "https://i.ibb.co/ZzvKprv/Screenshot-4-2-300x300-png.webp",
+        "title": "Bombay Chili",
+        "name": "Seeds", 
+        "price": 130
+    },
+    {
+        "id": 12,
+        "img": "https://i.ibb.co/T0q2C0Z/Cucumber-Supremo-Hybrid1-Burpee-300x300-jpg.webp",
+        "title": "Cucumber",
+        "name": "Campaign Seeds", 
+        "price": 80
+    },
+    {
+        "id": 13,
+        "img": "https://i.ibb.co/f0w9hDX/received-281574767589771-300x300-jpeg.webp",
+        "title": "Dragon Fruits",
+        "name": "Fruit Seeds", 
+        "price": 155
+    },
+    {
+        "id": 14,
+        "img": "https://i.ibb.co/Lp8cTn3/received-303547195894256-300x300-jpeg.webp",
+        "title": "Hybrid Pumpkin",
+        "name": "Seeds", 
+        "price": 230
+    },
+    {
+        "id": 15,
+        "img": "https://i.ibb.co/c2S6mZF/received-1019299769279840-300x300-jpeg.webp",
+        "title": "Drumstick",
+        "name": "Vegetable Seeds", 
+        "price": 145
+    },
+    {
+        "id": 16,
+        "img": "https://i.ibb.co/RydJBQS/received-6720221034692724-300x300-jpeg.webp",
+        "title": "Fig Seeds ",
+        "name": "Fruit Seeds", 
+        "price": 230
+    }
+    
+]
